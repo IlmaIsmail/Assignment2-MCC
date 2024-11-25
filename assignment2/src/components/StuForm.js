@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import DisplayData from './DisplayData';
 import StuInfo from './StuInfo';
 import Summary from './Summary';
+ 
 
 export default function StuForm() {
   const [students, setStudents] = useState([]);

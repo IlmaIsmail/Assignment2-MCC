@@ -1,4 +1,5 @@
 import '../index.css'
+import '../assets/css/main.css';
 
 export default function Summary({students, calculateAverage}){
   

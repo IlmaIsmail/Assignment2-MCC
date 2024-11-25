@@ -1,4 +1,5 @@
-import '../index.css'
+import '../index.css';
+import '../assets/css/main.css';
 export default function DisplayData({students, handleDelete}){
   
   return (
